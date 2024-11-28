@@ -1,3 +1,5 @@
+# TCC
+
 [TCC - Overleaf](https://www.overleaf.com/project/6745361c19ba8b540be1761f)
 
 ## Datasets
@@ -23,11 +25,6 @@
 		- Dataset com vídeos de várias câmeras de uma universidade, gravando pessoas passando pelos corredores;
 		- Vantagens: Tem várias visões de câmeras e tem componente temporal;
 		- Desvantagens: Domínio muito fechado (apenas corredores de uma universidade específica), câmeras são estáticas;
-
-elencar questoes de pesquisa:
-
-- analise do espaco latente
-- temporal
 
 ## Relatório
 
